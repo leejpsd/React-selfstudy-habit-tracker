@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-selfstudy-habit-tracker/static/css/main.c8a9e8f5.css",
+    "main.js": "/React-selfstudy-habit-tracker/static/js/main.715337bf.js",
+    "index.html": "/React-selfstudy-habit-tracker/index.html",
+    "main.c8a9e8f5.css.map": "/React-selfstudy-habit-tracker/static/css/main.c8a9e8f5.css.map",
+    "main.715337bf.js.map": "/React-selfstudy-habit-tracker/static/js/main.715337bf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c8a9e8f5.css",
+    "static/js/main.715337bf.js"
+  ]
+}
